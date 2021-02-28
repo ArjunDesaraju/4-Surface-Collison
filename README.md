@@ -1,1 +1,2 @@
-# 4-Surface-Collison
+# collisionAlgorithm
+Algorithm to detect collision between two objects
